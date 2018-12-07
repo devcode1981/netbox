@@ -1,6 +1,9 @@
 ---
-name: 📖 Documentation Change
+name: "\U0001F4D6 Documentation Change"
 about: Suggest an addition or modification to the NetBox documentation
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
